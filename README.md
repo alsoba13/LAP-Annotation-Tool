@@ -1,9 +1,9 @@
-# LabelMe Enviroment.
+# LAP Annotation Tool Enviroment with vagrant.
 
 First you will need to create the `datasets` folder in the following way. Those are added in the gitignore file, but you have to add manually:
 
 ```
-LabelMeEnv
+LAP-Annotation-Tool
 `--datasets
     `-- food
           |-- annotations
