@@ -1,4 +1,15 @@
-# LAP Annotation Tool Enviroment with vagrant.
+# LAP annotation-tool enviroment with vagrant
+
+Here you will find the source to code to install the LAP annotation-tool on your server. LAP annotation-tool is a specialized annotation tool with many keyboard shortcuts, which has been developed by adapting the web-based tool for image
+annotation known as [LabelMe](http://labelme.csail.mit.edu).
+
+LAP annotation-tool can be used for any image annotation problem with multiple labels per image. Broadly speaking, it allows to load pictures and select N sets of labels, and then it creates an environment with N keys to easily switch between the target labels.
+
+### CITATION
+
+P. Herruzo, L. Portell, A. Soto, B. Remeseiro (2017). Analyzing First-Person Stories Based on Socializing, Eating and Sedentary Patterns. In: Battiato S., Farinella G., Leo M., Gallo G. (eds) New Trends in Image Analysis and Processing – ICIAP 2017. Lecture Notes in Computer Science, vol. 10590, pp. 109-119, Springer.
+
+### INSTRUCTIONS
 
 First you will need to create the `datasets` folder in the following way. Those are added in the gitignore file, but you have to add manually:
 
