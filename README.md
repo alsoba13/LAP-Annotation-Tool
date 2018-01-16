@@ -1,5 +1,4 @@
 # LAP annotation-tool enviroment with vagrant
-# ===========
 
 Here you will find the source code to install the LAP annotation-tool on your server. LAP annotation-tool is a specialized annotation tool with many keyboard shortcuts, which has been developed by adapting the web-based tool for image annotation known as [LabelMe](http://labelme.csail.mit.edu).
 
